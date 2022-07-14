@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mobile-ui",
+    "slug": "mobile-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
